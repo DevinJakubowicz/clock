@@ -30,8 +30,11 @@ document.getElementsByTagName("h1")[0].innerText = color;
 
 }
 
+DevinsClock();
 
-DevinsClock()
+
+
+
 
 
 
